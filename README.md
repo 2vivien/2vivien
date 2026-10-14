@@ -1,6 +1,6 @@
-<div align="center">
+<img src="assets/readme/vivien-hero.svg" alt="Hero VIVIEN AGUEOUNDE — Digital Solution Designer / Full-Stack Developer / AI Builder" title="VIVIEN AGUEOUNDE" width="100%" style="max-height:520px; object-fit:contain;"/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:09090B,45:17112B,100:0B0B0F&height=190&section=header&text=VIVIEN%20AGUEOUNDE&fontSize=38&fontColor=F5F3FF&fontAlignY=38&desc=DIGITAL%20SOLUTION%20DESIGNER%20%2F%20FULL-STACK%20DEVELOPER%20%2F%20AI%20BUILDER&descSize=12&descAlignY=62&animation=fadeIn" width="100%" alt="Bannière de profil de Vivien Agueounde"/>
+<div align="center">
 
 [Portfolio](https://vivien-agueounde.vercel.app/) · [GitHub](https://github.com/2vivien) · [Projets](https://github.com/2vivien?tab=repositories)
 

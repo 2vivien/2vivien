@@ -1,84 +1,173 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:111827,50:312e81,100:6d28d9&text=VIVIEN%20AGUEOUNDE&fontColor=ffffff&fontSize=42&fontAlignY=42&desc=Digital%20Solution%20Designer%20%E2%80%A2%20Full-Stack%20Developer%20%E2%80%A2%20AI%20Builder&descSize=14&descAlignY=62&animation=fadeIn" width="100%" alt="Vivien Agueounde — Digital Solution Designer" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:09090B,45:17112B,100:0B0B0F&height=190&section=header&text=VIVIEN%20AGUEOUNDE&fontSize=38&fontColor=F5F3FF&fontAlignY=38&desc=DIGITAL%20SOLUTION%20DESIGNER%20%2F%20FULL-STACK%20DEVELOPER%20%2F%20AI%20BUILDER&descSize=12&descAlignY=62&animation=fadeIn" width="100%" alt="Bannière de profil de Vivien Agueounde"/>
 
-<br/>
+[Portfolio](https://vivien-agueounde.vercel.app/) · [GitHub](https://github.com/2vivien) · [Projets](https://github.com/2vivien?tab=repositories)
 
-<a href="https://vivien-agueounde.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Visit%20my%20work-6D28D9?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
-<a href="https://github.com/2vivien"><img src="https://img.shields.io/badge/GitHub-2vivien-181717?style=for-the-badge&logo=github" alt="GitHub"/></a>
+**Je conçois des produits numériques utiles — du problème métier à la solution.**
 
-<br/><br/>
-
-*I turn complex ideas into useful digital products.*
+[![Profile views](https://komarev.com/ghpvc/?username=2vivien&style=flat-square&color=8B5CF6&label=PROFILE+VIEWS)](https://github.com/2vivien)
+[![GitHub followers](https://img.shields.io/github/followers/2vivien?style=flat-square&logo=github&label=Followers&color=8B5CF6)](https://github.com/2vivien?tab=followers)
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8B5CF6,50:22C55E,100:8B5CF6&height=3&section=header" width="100%" alt="Séparateur pixel"/>
 
 ## WHO I AM
 
-I'm **Vivien Agueounde**, a Beninese digital solution designer and full-stack developer.
+Je suis **Vivien Agueounde**, concepteur de solutions numériques béninois, développeur full-stack et bâtisseur de produits assistés par l’IA.
 
-I design and build web applications, SaaS products, APIs and AI-powered experiences. I care about more than making an interface look good: I want to understand the problem, choose the right architecture, and deliver something people can actually use.
+Je m’intéresse à la manière dont le logiciel peut résoudre des problèmes concrets : comprendre le besoin, concevoir une expérience claire, construire une architecture maintenable, puis faire évoluer le produit à partir de retours réels.
 
-My work sits at the intersection of **product thinking, software engineering, automation and applied AI**.
+Je ne veux pas seulement assembler des pages. Je veux créer des **outils numériques cohérents**, depuis l’interface et les API jusqu’aux données, aux automatisations et aux intégrations IA.
 
-> **My approach:** understand the problem first, design the solution, then build it to last.
+- **Focus :** applications web, SaaS, marketplaces et outils métier
+- **Approche :** produit d’abord, architecture pragmatique, itération continue
+- **Basé au :** Bénin
+- **Langue :** français
 
 ## WHAT I BUILD
 
-| Area | What I work on |
-|---|---|
-| **SaaS & Web Products** | Applications, dashboards, marketplaces and business tools — from user flows to frontend, backend and deployment. |
-| **AI & Automation** | AI assistants, conversational workflows, voice-agent concepts and automations for repetitive work. |
-| **Backend & APIs** | API design, authentication, data modelling, integrations and maintainable server-side systems. |
-| **Product Design & Delivery** | Interface design, prototyping, technical decisions and iterative delivery. |
+<table>
+<tr>
+<td width="50%" valign="top">
 
-## CURRENTLY BUILDING
+### SaaS & applications web
+Interfaces web modernes, tableaux de bord, API et fonctionnalités métier conçues pour évoluer.
 
-- **Allokan** — an AI receptionist concept for handling business conversations and routing requests.
-- **Le Maître Carré** — a real-estate marketplace focused on property listings, search and discovery.
-- **Otheloo** — an education platform concept bringing school workflows and student support into one product.
-- **Ikiffe** — a messaging project exploring secure conversations, synchronization and multi-device reliability.
-- **Netpub** — a digital agency initiative combining web solutions, content, advertising and AI-assisted services.
+</td>
+<td width="50%" valign="top">
 
-*These are ongoing product directions; features and maturity may evolve.*
+### IA & automatisation
+Assistants conversationnels, intégration de modèles IA, workflows et automatisation des tâches répétitives.
 
-## TECH TOOLBOX
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### Marketplaces
+Parcours de publication et de recherche, modèles métier, filtres et bases de données pour connecter l’offre et la demande.
+
+</td>
+<td width="50%" valign="top">
+
+### Architecture & ingénierie
+Conception d’API, modélisation des données, sécurité, tests et amélioration progressive de la qualité logicielle.
+
+</td>
+</tr>
+</table>
+
+## SELECTED PROJECTS
+
+> Les projets ci-dessous représentent mes produits et chantiers de développement. Leur périmètre et leur niveau d’avancement peuvent évoluer.
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### Allokan
+**Réceptionniste IA pour les entreprises**
+
+Un projet de réception intelligente orienté vers les appels et les demandes clients, avec l’objectif d’aider les entreprises à répondre, qualifier les demandes et transmettre les cas complexes à un humain.
+
+**Axes :** expérience vocale, intégrations, automatisation, transfert humain.
+
+[Explorer le dépôt](https://github.com/2vivien)
+
+</td>
+<td width="50%" valign="top">
+
+### Le Maître Carré
+**Marketplace immobilière**
+
+Une plateforme pensée autour des annonces immobilières, des parcours de recherche et de publication et d’un modèle métier adapté aux différents types de transactions.
+
+**Axes :** marketplace, recherche, données immobilières, expérience utilisateur.
+
+[Ouvrir le dépôt](https://github.com/2vivien/lemetrecarre)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### Otheloo
+**Plateforme éducative**
+
+Un projet d’application pour structurer les interactions entre établissements, enseignants, élèves et parents autour de la vie scolaire.
+
+**Axes :** rôles, suivi scolaire, communication et outils de gestion.
+
+[Voir mes dépôts](https://github.com/2vivien?tab=repositories)
+
+</td>
+<td width="50%" valign="top">
+
+### Ikiffe
+**Messagerie & synchronisation**
+
+Un projet de messagerie qui explore la sécurité des échanges, la synchronisation multi-appareils et les fonctionnalités temps réel.
+
+**Axes :** chiffrement, synchronisation, médias et WebRTC.
+
+[Explorer le dépôt](https://github.com/2vivien/Ikiffe)
+
+</td>
+</tr>
+</table>
+
+### Netpub
+**Services numériques & croissance**
+
+Un projet d’agence qui rassemble développement web, présence numérique, création de contenu, publicité et automatisation par IA.
+
+[Voir mon profil GitHub](https://github.com/2vivien?tab=repositories)
+
+## TECH STACK
+
+Je privilégie les outils selon le besoin du produit. Les icônes ci-dessous présentent les technologies que j’utilise ou explore dans mes projets ; elles ne prétendent pas toutes représenter le même niveau d’expertise.
 
 <div align="center">
 
-### Frontend
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind" alt="HTML, CSS, JavaScript, TypeScript, React, Next.js, Tailwind CSS"/>
+**Frontend**
 
-### Backend & Data
-<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,python,postgres,mongodb,redis,docker" alt="Node.js, Express, NestJS, Python, PostgreSQL, MongoDB, Redis, Docker"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind" alt="HTML, CSS, JavaScript, TypeScript, React, Next.js et Tailwind CSS"/>
 
-### Tools & Product
-<img src="https://skillicons.dev/icons?i=git,github,figma,vercel,linux" alt="Git, GitHub, Figma, Vercel, Linux"/>
+**Backend, données & API**
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,python,postgres,mongodb,redis,prisma" alt="Node.js, Express, NestJS, Python, PostgreSQL, MongoDB, Redis et Prisma"/>
+
+**Outils, design & déploiement**
+
+<img src="https://skillicons.dev/icons?i=git,github,docker,linux,figma,vercel,postman,vscode" alt="Git, GitHub, Docker, Linux, Figma, Vercel, Postman et VS Code"/>
 
 </div>
 
-I choose tools based on the product’s needs. My current interests include **TypeScript, Next.js, PostgreSQL, API design, authentication, automated testing, deployment workflows and practical AI integrations**.
+**Autres outils et domaines :** Drizzle ORM, Neon, Better Auth, Zod, n8n, Botpress, Voiceflow, ManyChat, WordPress, Webflow, Shopify, Canva, Cisco Packet Tracer et tcpdump.
+
+*Les technologies affichées sont une sélection de mon environnement de travail et de mes explorations. Le choix final dépend des contraintes de chaque projet.*
 
 ## HOW I WORK
 
-- **Product before code** — clarify the user, the problem and the expected outcome.
-- **Architecture with a purpose** — keep systems modular and avoid complexity without a reason.
-- **Real integrations over fake demos** — connect interfaces to actual services and data whenever possible.
-- **Security and reliability matter** — treat permissions, validation, errors and tests as part of the product.
-- **Learn by building** — document decisions, test assumptions and improve through iteration.
+- **Comprendre avant de coder :** clarifier le problème, les utilisateurs et les critères de réussite.
+- **Construire par étapes :** livrer une base utile, tester, apprendre et améliorer.
+- **Garder une architecture lisible :** séparer les responsabilités et documenter les décisions importantes.
+- **Ne pas confondre démo et produit :** vérifier les flux, les erreurs, la sécurité et les cas limites.
+- **Utiliser l’IA avec discernement :** accélérer le travail sans abandonner la vérification humaine.
 
 ## GITHUB ACTIVITY
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=2vivien&show_icons=true&hide_border=true&rank_icon=github&theme=transparent&title_color=8B5CF6&icon_color=8B5CF6" alt="GitHub overview statistics"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=2vivien&layout=compact&hide_border=true&theme=transparent&title_color=8B5CF6" alt="Most used languages"/>
+<img src="https://github-readme-stats.vercel.app/api?username=2vivien&show_icons=true&hide_border=true&bg_color=0D0D12&title_color=C4B5FD&text_color=E5E7EB&icon_color=4ADE80&rank_icon=github" height="165" alt="Statistiques GitHub de Vivien"/>
 
-<br/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=2vivien&layout=compact&hide_border=true&bg_color=0D0D12&title_color=C4B5FD&text_color=E5E7EB&langs_count=8" height="165" alt="Langages les plus présents dans les dépôts publics"/>
 
-<img src="https://streak-stats.demolab.com?user=2vivien&hide_border=true&theme=transparent&ring=8B5CF6&fire=8B5CF6&currStreakLabel=8B5CF6" alt="GitHub contribution streak"/>
+<img src="https://streak-stats.demolab.com?user=2vivien&theme=transparent&hide_border=true&background=0D0D12&ring=8B5CF6&fire=4ADE80&currStreakLabel=C4B5FD&sideLabels=E5E7EB&dates=9CA3AF" width="100%" alt="Série d’activité GitHub"/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=2vivien&bg_color=0D0D12&color=E5E7EB&line=8B5CF6&point=4ADE80&area=true&hide_border=true" width="100%" alt="Graphique d’activité GitHub"/>
 
 </div>
 
@@ -86,10 +175,30 @@ I choose tools based on the product’s needs. My current interests include **Ty
 
 <div align="center">
 
-<a href="https://vivien-agueounde.vercel.app/">Portfolio</a> · <a href="https://github.com/2vivien">GitHub</a>
-
-<br/><br/>
-
-*Building useful things, learning in public, and turning ideas into working products.*
+[![GitHub](https://img.shields.io/badge/GitHub-2vivien-181717?style=for-the-badge&logo=github)](https://github.com/2vivien)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visiter-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white)](https://vivien-agueounde.vercel.app/)
 
 </div>
+
+---
+
+<div align="center">
+
+*Construire avec intention. Apprendre en continu. Transformer les idées en produits utiles.*
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:09090B,50:21143A,100:09090B&height=65&section=footer" width="100%" alt="Pied de page sombre violet"/>
+
+</div>
+
+<!--
+OUTILS VISUELS UTILISÉS DANS CE README
+- capsule-render.vercel.app : bannière et séparateurs.
+- skillicons.dev : icônes de technologies.
+- github-readme-stats.vercel.app : statistiques et langages des dépôts publics.
+- streak-stats.demolab.com : série d’activité.
+- github-readme-activity-graph.vercel.app : graphique d’activité.
+- shields.io : badges.
+- komarev.com/ghpvc : compteur de vues du profil.
+Ces services sont des intégrations tierces ; leur disponibilité et leur rendu peuvent varier.
+Le profil affiché dans la capture peut utiliser d’autres outils : une capture seule ne permet pas d’identifier exactement son implémentation.
+-->

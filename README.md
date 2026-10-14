@@ -74,7 +74,7 @@ Un projet de réception intelligente orienté vers les appels et les demandes cl
 
 **Axes :** expérience vocale, intégrations, automatisation, transfert humain.
 
-[Explorer le dépôt](https://github.com/2vivien)
+[Découvrir Allokan](https://super-voice-ai.vercel.app/)
 
 </td>
 <td width="50%" valign="top">
@@ -100,7 +100,7 @@ Un projet d’application pour structurer les interactions entre établissements
 
 **Axes :** rôles, suivi scolaire, communication et outils de gestion.
 
-[Voir mes dépôts](https://github.com/2vivien?tab=repositories)
+[Ouvrir le dépôt Otheloo](https://github.com/2vivien/Otheloo)
 
 </td>
 <td width="50%" valign="top">
@@ -123,7 +123,7 @@ Un projet de messagerie qui explore la sécurité des échanges, la synchronisat
 
 Un projet d’agence qui rassemble développement web, présence numérique, création de contenu, publicité et automatisation par IA.
 
-[Voir mon profil GitHub](https://github.com/2vivien?tab=repositories)
+[Ouvrir le dépôt Netpub](https://github.com/2vivien/netpub)
 
 ## TECH STACK
 

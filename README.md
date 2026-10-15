@@ -17,11 +17,11 @@
 <h3>&gt; WHO I AM <sub>[BENIN]</sub></h3>
 
 <p>
-🟢 <b>Location:</b> &nbsp;Cotonou, Benin • UTC+01:00 WAT<br>
-🟢 <b>Status:</b> &nbsp;&nbsp;&nbsp;&nbsp;Available for collaborations &amp; OSS<br>
-🟢 <b>Mission:</b> &nbsp;&nbsp;Building sovereign tech solutions for Africa<br>
-🟢 <b>Languages:</b> French • English • Fon<br>
-🟢 <b>Focus:</b> &nbsp;&nbsp;&nbsp;&nbsp;Fullstack + AI + DevOps
+<sub>🟢</sub> <b>Location:</b> &nbsp;Cotonou, Benin • UTC+01:00 WAT<br>
+<sub>🟢</sub> <b>Status:</b> &nbsp;&nbsp;&nbsp;&nbsp;Available for collaborations &amp; OSS<br>
+<sub>🟢</sub> <b>Mission:</b> &nbsp;&nbsp;Building sovereign tech solutions for Africa<br>
+<sub>🟢</sub> <b>Languages:</b> French • English • Fon<br>
+<sub>🟢</sub> <b>Focus:</b> &nbsp;&nbsp;&nbsp;&nbsp;Fullstack + AI + DevOps
 </p>
 
 <hr>
@@ -89,11 +89,11 @@
 <h3>&gt; RECENT ACTIVITY</h3>
 
 <p>
-🟢 pushed 5 commits to main &nbsp;<sub>1h ago</sub><br>
-🟢 merged PR #91: feat/ai-receptionist &nbsp;<sub>3h ago</sub><br>
-🟢 opened PR: refactor/alloakan-core &nbsp;<sub>yesterday</sub><br>
-🟢 starred vercel/next.js &nbsp;<sub>2 days ago</sub><br>
-🟢 published package: ikiffe-sync v1.2.0 &nbsp;<sub>4 days ago</sub>
+<sub>🟢</sub> pushed 5 commits to main &nbsp;<sub>1h ago</sub><br>
+<sub>🟢</sub> merged PR #91: feat/ai-receptionist &nbsp;<sub>3h ago</sub><br>
+<sub>🟢</sub> opened PR: refactor/alloakan-core &nbsp;<sub>yesterday</sub><br>
+<sub>🟢</sub> starred vercel/next.js &nbsp;<sub>2 days ago</sub><br>
+<sub>🟢</sub> published package: ikiffe-sync v1.2.0 &nbsp;<sub>4 days ago</sub>
 </p>
 
 <hr>

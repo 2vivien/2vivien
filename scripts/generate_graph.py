@@ -1,8 +1,9 @@
 """Génère assets/matrix-graph.svg : la grille de contributions façon GitHub.
 
-53 semaines x 7 jours, comme la capture de référence : des carrés empilés dont
-la hauteur suit une profil en "colline" (faible en janvier, pic en été, repli
-en décembre), avec le nombre de contributions écrit dans chaque case.
+53 semaines x 7 jours. La grille vit dans une colonne étroite du README, donc
+elle est dessinée à sa taille d'affichage réelle : dans la capture de référence
+les nombres étaient dans les cases, mais à l'échelle du README ils deviennent
+des taches illisibles — on garde les carrés, qui restent nets.
 """
 
 from __future__ import annotations
@@ -15,19 +16,18 @@ ROOT = Path(__file__).resolve().parent.parent
 OUT = ROOT / "assets" / "matrix-graph.svg"
 
 WEEKS, DAYS = 53, 7
-CELL, GAP = 11.0, 2.0
+CELL, GAP = 5.0, 1.5
 STEP = CELL + GAP
-PAD_X, TOP, LABEL_H = 2.0, 2.0, 16.0
+PAD_X, TOP, LABEL_H = 1.0, 1.0, 12.0
 
 W = WEEKS * STEP
 H = DAYS * STEP + TOP + LABEL_H
 
 BG = "#010409"
-FG_MUTED = "#484f58"
+FG_MUTED = "#8b949e"
 
 # palette de contributions, identique au vert GitHub
 LEVELS = ["#161b22", "#0e4429", "#006d32", "#26a641", "#39d353"]
-LEVEL_FG = ["#484f58", "#c9d1d9", "#ffffff", "#ffffff", "#ffffff"]
 
 MONO = "'JetBrains Mono','SFMono-Regular',ui-monospace,Consolas,monospace"
 
@@ -77,19 +77,13 @@ def build() -> str:
             y = TOP + day * STEP
             parts.append(
                 f'<rect x="{x:.1f}" y="{y:.1f}" width="{CELL:.1f}" height="{CELL:.1f}" '
-                f'rx="2" fill="{LEVELS[lv]}"/>'
+                f'rx="1.5" fill="{LEVELS[lv]}"/>'
             )
-            if count:
-                parts.append(
-                    f'<text x="{x + CELL / 2:.1f}" y="{y + CELL / 2 + 3.2:.1f}" '
-                    f'text-anchor="middle" font-family="{MONO}" font-size="7" '
-                    f'fill="{LEVEL_FG[lv]}">{count}</text>'
-                )
 
     for col, label in MONTHS:
         x = PAD_X + col * STEP
         parts.append(
-            f'<text x="{x:.1f}" y="{H - 4:.1f}" font-family="{MONO}" font-size="9" '
+            f'<text x="{x:.1f}" y="{H - 3:.1f}" font-family="{MONO}" font-size="7" '
             f'fill="{FG_MUTED}">{label}</text>'
         )
 

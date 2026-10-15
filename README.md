@@ -12,20 +12,17 @@
 
 **`2vivien`** — Fullstack Architect & AI Builder
 
-Construire avec intention. *Purpose-driven architecture, clean APIs,
-thoughtful AI integration, observable infrastructure.*
+Purpose-driven architecture • clean APIs • thoughtful AI integration • observable infrastructure
 
-**Cotonou, Benin • UTC+01:00** — Available for collaborations & OSS
+**Cotonou, Benin • UTC+01:00** — Available for collaborations &amp; OSS
 
 </div>
 
 <div align="center">
 
 <pre>
-connect — [ <a href="https://github.com/2vivien">github.com/2vivien</a> ] •
-[ <a href="https://linkedin.com/m/vivien-agueounde">linkedin.com/m/vivien-agueounde</a> ] •
-[ <a href="mailto:vivien@devmail.com">vivien@devmail.com</a> ] •
-[ Cotonou • Benin • Africa ]
+connect — [ <a href="https://github.com/2vivien">github.com/2vivien</a> ] • [ <a href="https://linkedin.com/m/vivien-agueounde">linkedin.com/m/vivien-agueounde</a> ]
+       • [ <a href="mailto:vivien@devmail.com">vivien@devmail.com</a> ] • [ Cotonou • Benin • Africa ]
 </pre>
 
 </div>

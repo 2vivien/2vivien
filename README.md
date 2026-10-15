@@ -21,18 +21,12 @@ thoughtful AI integration, observable infrastructure.*
 
 <div align="center">
 
-[<img src="https://img.shields.io/badge/GitHub-2vivien-39d353?style=flat-square&labelColor=010409" alt="GitHub">](https://github.com/2vivien)
-[<img src="https://img.shields.io/badge/LinkedIn-vivien--agueounde-39d353?style=flat-square&labelColor=010409" alt="LinkedIn">](https://linkedin.com/m/vivien-agueounde)
-[<img src="https://img.shields.io/badge/Email-vivien%40devmail.com-39d353?style=flat-square&labelColor=010409" alt="Email" mailto:vivien@devmail.com>
-[<img src="https://img.shields.io/badge/Location-Cotonou%20%2C%20Benin-39d353?style=flat-square&labelColor=010409" alt="Cotonou, Benin">](https://www.google.com/maps/place/Cotonou,+Benin)
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=2vivien&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=0d1117" alt="2vivien's GitHub stats" height="165">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=2vivien&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=0d1117" alt="2vivien's Top Languages" height="165">
+<pre>
+connect — [ <a href="https://github.com/2vivien">github.com/2vivien</a> ] •
+[ <a href="https://linkedin.com/m/vivien-agueounde">linkedin.com/m/vivien-agueounde</a> ] •
+[ <a href="mailto:vivien@devmail.com">vivien@devmail.com</a> ] •
+[ Cotonou • Benin • Africa ]
+</pre>
 
 </div>
 

@@ -1,130 +1,32 @@
 <div align="center">
 
-<img src="assets/matrix-hero.svg" alt="CODE IS MATRIX — Vivien A." width="100%">
+<img src="assets/matrix-profile.webp" alt="CODE IS MATRIX — Vivien A., Fullstack Architect & AI Builder, Cotonou (Benin)" width="100%">
 
 </div>
-
-<pre>
-┌────────────────────────────────────────────────────────────────────────────────┐
-│ <b>VIVIEN AGUEOUNDE</b> • 2vivien • Fullstack Architect &amp; AI Builder   <b>BENIN // 229</b> │
-└────────────────────────────────────────────────────────────────────────────────┘
-</pre>
-
-<table>
-<tr>
-<td width="33%" valign="top">
-
-<h3>&gt; WHO I AM <sub>[BENIN]</sub></h3>
-
-<p>
-<sub>🟢</sub> <b>Location:</b> &nbsp;Cotonou, Benin • UTC+01:00 WAT<br>
-<sub>🟢</sub> <b>Status:</b> &nbsp;&nbsp;&nbsp;&nbsp;Available for collaborations &amp; OSS<br>
-<sub>🟢</sub> <b>Mission:</b> &nbsp;&nbsp;Building sovereign tech solutions for Africa<br>
-<sub>🟢</sub> <b>Languages:</b> French • English • Fon<br>
-<sub>🟢</sub> <b>Focus:</b> &nbsp;&nbsp;&nbsp;&nbsp;Fullstack + AI + DevOps
-</p>
-
-<hr>
-
-<h3>&gt; GITHUB STATS 2024</h3>
-
-<p><b>Contributions: 2,184</b> <sub>Contributions (2024)</sub></p>
-
-<div align="center">
-
-<img src="assets/matrix-graph.svg" alt="GitHub contributions 2024" width="100%">
-
-</div>
-
-<p><b>Public Repos: 48</b> • Private: 14 • Stars Earned: 312 • Forks: 56</p>
-
-<div align="center">
-
-<img src="assets/matrix-langs.svg" alt="Top languages" width="100%">
-
-</div>
-
-</td>
-<td width="34%" valign="top">
-
-<h3>&gt; CORE SYSTEM / ARCHITECTURE MANIFESTO</h3>
-
-<p><b>&gt; PROTOCOL: Build with intention</b></p>
-
-<p>
-▸ <b>Purpose-driven architecture</b> — every system designed with clear goals and constraints<br>
-▸ <b>Design for clarity, scale, and resilience</b> — prioritize simplicity over complexity<br>
-▸ <b>Every line written with deliberate reasoning</b> — code as documentation, intent as foundation
-</p>
-
-<p><b>&gt; STACK DEPTH: Frontend / Backend / AI / Infra layers</b></p>
-
-<p>
-▸ <b>Frontend:</b> Reactive, accessible interfaces • component-driven, performance-first<br>
-▸ <b>Backend:</b> Modular services • clean APIs, robust data flow, secure transactions<br>
-▸ <b>AI:</b> Thoughtful model integration • validation, evaluation, human-in-the-loop<br>
-▸ <b>Infra:</b> Containerized, observable, automated • CI/CD, logging, monitoring, secure
-</p>
-
-<p><b>&gt; HOW I WORK:</b></p>
-
-<p>
-▸ <b>Understand before coding</b> — research, map requirements, question assumptions<br>
-▸ <b>Build in steps</b> — iterate, test, validate, refine; small commits, measurable progress<br>
-▸ <b>Keep architecture readable</b> — simple diagrams, clear documentation, consistent structure<br>
-▸ <b>Use AI with discernment</b> — guide it, review output, validate, own the outcome
-</p>
-
-</td>
-<td width="33%" valign="top">
-
-<div align="center">
-
-<img src="assets/matrix-stack.svg" alt="Tech stack" width="100%">
-
-</div>
-
-<hr>
-
-<h3>&gt; RECENT ACTIVITY</h3>
-
-<p>
-<sub>🟢</sub> pushed 5 commits to main &nbsp;<sub>1h ago</sub><br>
-<sub>🟢</sub> merged PR #91: feat/ai-receptionist &nbsp;<sub>3h ago</sub><br>
-<sub>🟢</sub> opened PR: refactor/alloakan-core &nbsp;<sub>yesterday</sub><br>
-<sub>🟢</sub> starred vercel/next.js &nbsp;<sub>2 days ago</sub><br>
-<sub>🟢</sub> published package: ikiffe-sync v1.2.0 &nbsp;<sub>4 days ago</sub>
-</p>
-
-<hr>
-
-<div align="center">
-
-<img src="assets/matrix-metrics.svg" alt="System metrics" width="100%">
-
-</div>
-
-</td>
-</tr>
-</table>
 
 ---
 
 <div align="center">
 
-### `— 010101010101010101010101010101 —`
+### VIVIEN AGUEOUNDE
 
-# "Construire avec intention."
+**`2vivien`** — Fullstack Architect & AI Builder
 
-**Dev Philosophy • Build with purpose • Ship with impact**
+Construire avec intention. *Purpose-driven architecture, clean APIs,
+thoughtful AI integration, observable infrastructure.*
 
-### `— 010101010101010101010101010101 —`
+**Cotonou, Benin • UTC+01:00** — Available for collaborations & OSS
 
 </div>
 
-<pre>
-connect — [ github.com/2vivien ] • [ linkedin.com/m/vivien-agueounde ] • [ vivien@devmail.com ] • [ Benin • Africa ]
-</pre>
+<div align="center">
+
+[<img src="https://img.shields.io/badge/GitHub-2vivien-39d353?style=flat-square&labelColor=010409" alt="GitHub">](https://github.com/2vivien)
+[<img src="https://img.shields.io/badge/LinkedIn-vivien--agueounde-39d353?style=flat-square&labelColor=010409" alt="LinkedIn">](https://linkedin.com/m/vivien-agueounde)
+[<img src="https://img.shields.io/badge/Email-vivien%40devmail.com-39d353?style=flat-square&labelColor=010409" alt="Email" mailto:vivien@devmail.com>
+[<img src="https://img.shields.io/badge/Location-Cotonou%20%2C%20Benin-39d353?style=flat-square&labelColor=010409" alt="Cotonou, Benin">](https://www.google.com/maps/place/Cotonou,+Benin)
+
+</div>
 
 <div align="center">
 
@@ -133,6 +35,59 @@ connect — [ github.com/2vivien ] • [ linkedin.com/m/vivien-agueounde ] • [
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=2vivien&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=0d1117" alt="2vivien's Top Languages" height="165">
 
 </div>
+
+<details>
+<summary><b>Full profile — text version (for search engines &amp; screen readers)</b></summary>
+
+### &gt; WHO I AM [BENIN]
+
+- **Location:** Cotonou, Benin • UTC+01:00 WAT
+- **Status:** Available for collaborations &amp; OSS
+- **Mission:** Building sovereign tech solutions for Africa
+- **Languages:** French • English • Fon
+- **Focus:** Fullstack + AI + DevOps
+
+### &gt; CORE SYSTEM / ARCHITECTURE MANIFESTO
+
+**&gt; PROTOCOL: Build with intention**
+
+- Purpose-driven architecture — every system designed with clear goals and constraints
+- Design for clarity, scale, and resilience — prioritize simplicity over complexity
+- Every line written with deliberate reasoning — code as documentation, intent as foundation
+
+**&gt; STACK DEPTH: Frontend / Backend / AI / Infra layers**
+
+- **Frontend:** Reactive, accessible interfaces • component-driven, performance-first
+- **Backend:** Modular services • clean APIs, robust data flow, secure transactions
+- **AI:** Thoughtful model integration • validation, evaluation, human-in-the-loop
+- **Infra:** Containerized, observable, automated • CI/CD, logging, monitoring, secure
+
+**&gt; HOW I WORK:**
+
+- Understand before coding — research, map requirements, question assumptions
+- Build in steps — iterate, test, validate, refine; small commits, measurable progress
+- Keep architecture readable — simple diagrams, clear documentation, consistent structure
+- Use AI with discernment — guide it, review output, validate, own the outcome
+
+### &gt; TECH STACK [19+ TOOLS]
+
+`HTML5` `CSS3` `JavaScript` `TypeScript` `React` `Tailwind` `Node.js` `Express`
+`NestJS` `Python` `PostgreSQL` `MongoDB` `Redis` `Prisma` `Git` `Figma` `Docker`
+`Linux` `Vercel` `PyTorch` `LangChain` `OpenAI` `GraphQL`
+
+### &gt; RECENT ACTIVITY
+
+- pushed 5 commits to main — _1h ago_
+- merged PR #91: feat/ai-receptionist — _3h ago_
+- opened PR: refactor/alloakan-core — _yesterday_
+- starred vercel/next.js — _2 days ago_
+- published package: ikiffe-sync v1.2.0 — _4 days ago_
+
+### &gt; SYSTEM METRICS
+
+Uptime **99.92%** • Avg Commit/Day **4.7** • CI Pass Rate **96%** • Coverage **84%**
+
+</details>
 
 <div align="center">
 

@@ -1,2 +1,7 @@
 __pycache__/
 *.pyc
+
+# Copie de référence du profil Pratham1603 (design d'inspiration) — hors dépôt :
+# ce sont les fichiers d'un autre profil, ils n'ont rien à faire ici.
+Pratham1603-main/
+.ruff_cache/
